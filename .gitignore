@@ -1,0 +1,15 @@
+# Jekyll files #
+######################
+src/_site
+src/.sass-cache
+src/.jekyll-metadata
+
+
+
+# Backups & other files to ignore
+######################
+src/backups/*
+src/.asset-cache
+src/.asset-cache/*
+src/.sass-cache
+src/.sass-cache/*

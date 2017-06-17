@@ -1,0 +1,13 @@
+//= require jquery.js
+//= require modernizr.js
+//= require bootstrap.min.js
+//= require bootstrap-slider.js
+//= require chosen.select.js
+//= require counter.js
+//= require echo.js
+//= require functions.js
+//= require jquery.countdown.js
+//= require jquery.mCustomScrollbar.concat.min.js
+//= require jquery.viewbox.min.js
+//= require responsive.menu.js
+//= require slick.js

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    {% include common/head.html %}
+    <body>
+      <div class="wrapper">
+            <!-- header section -->
+          {% include common/header.html %}
+          <div class="main-section">
+                <!-- Main content area -->
+              {{ content }}
+          </div>
+          {% include common/footer.html %}
+      </div>
+        <!-- Javascripts -->
+      {% include common/javascripts.html %}
+
+    </body>
+
+</html>
